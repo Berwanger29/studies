@@ -14,6 +14,7 @@ class ContactController {
     update() {
 
     }
+    
     delete() {
 
     }
